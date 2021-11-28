@@ -1,0 +1,10 @@
+.game {
+    width: auto;
+    height: 730px;
+    background-image: url(./img/forest.png);
+    background-size: cover;
+}
+#canvas {
+    display: block;
+    margin: 0 auto;
+}
